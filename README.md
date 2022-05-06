@@ -1,5 +1,5 @@
 # RegulatorPI_TMSMUlTILAB
- Symulator dyskretnego układu regulacji oparty o platformę laboratoryjną uczelni TMSMULTILAB
+ Symulator dyskretnego układu regulacji na platformie laboratoryjnej uczelni TMSMULTILAB ( opartej na mikrokontrolerze TM320F28379D )
 
 PROGRAM W ROZWOJU
 
